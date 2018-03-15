@@ -1,0 +1,14 @@
+{
+	title: "this is the title from GitHub",
+	items: [
+	{
+		id:1,
+		name:"one",
+	},
+	{
+		id: 2,
+		name: "two",
+	},
+	],
+	value: 1337,
+}
